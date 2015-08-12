@@ -34,7 +34,7 @@ projects[media][patch][] = 'http://www.drupal.org/files/issues/media_browser_mod
 ; media youtube
 projects[media_youtube][type] = 'module'
 projects[media_youtube][subdir] = 'contrib'
-projects[media_youtube][download][branch] = '7.x-2.x'
+projects[media_youtube][download][branch] = '7.x-3.x'
 projects[media_youtube][download][type] = 'git'
 projects[media_youtube][download][url] = 'http://git.drupal.org/project/media_youtube.git'
-projects[media_youtube][download][revision] = '187283f0e24a668daaaebcfb886bcb9558d68056'
+projects[media_youtube][download][revision] = '2ae8891894292502b9cae249018849bfbf98387d'
